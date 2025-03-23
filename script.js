@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const scrollLeftBtn = document.getElementById("scroll-left");
   const scrollRightBtn = document.getElementById("scroll-right");
 
-  const scrollAmount = 800; // Increased from 200 to 400 for faster scrolling
+  const scrollAmount = 800; // Scrolling Speed
 
   scrollLeftBtn.addEventListener("click", function () {
       scrollContainer.scrollBy({ left: -scrollAmount, behavior: "smooth" });
