@@ -40,7 +40,7 @@ Key features of the application.
 Design of the website is fully based on the swiggy.com
 
 ## Technology Stack
-List and provide a brief overview of the technologies used in the project.
+List of the technologies used in the project.
 
 - Html
 - CSS
