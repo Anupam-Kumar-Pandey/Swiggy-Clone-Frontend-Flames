@@ -8,7 +8,7 @@ It is the clone Project of swiggy.com which aims to provide best quality food, g
 Frontend
 
 ## Deplolyed App
-
+https://67e049e6f3f99e87d73b21f0--funny-tulumba-92cf00.netlify.app/#
 
 
 ## Directory Structure
