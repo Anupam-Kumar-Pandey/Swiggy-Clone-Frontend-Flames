@@ -24,10 +24,7 @@ https://67e049e6f3f99e87d73b21f0--funny-tulumba-92cf00.netlify.app/#
 
 
 ## Video Walkthrough of the project
-Attach a very short video walkthough of all of the features [ 1 - 3 minutes ]
-
-## Video Walkthrough of the codebase
-Attach a very short video walkthough of codebase [ 1 - 5 minutes ]
+https://youtu.be/EH46nQnem9c
 
 ## Features
 Key features of the application.
@@ -35,6 +32,7 @@ Key features of the application.
 - A similar UI as Swiggy.com
 - Almost similar kind of siliding feature in login signup feature
 - Added button to scroll left and right through the food items.
+- Added QR code scanner which redirects users to playstore and appstore after scanning, from where they can easily download the swiggy app.
 
 ## design decisions or assumptions
 Design of the website is fully based on the swiggy.com
